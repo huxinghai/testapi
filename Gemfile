@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://ruby.taobao.org'
 
 
 gem 'rails', '4.2.5'
@@ -28,7 +28,7 @@ gem 'sqlite3'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
-
+gem 'redis-rails'
 gem 'active_model_serializers', '0.10.0.rc3'
 
 gem 'pry'
