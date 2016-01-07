@@ -5,7 +5,6 @@ gem 'rails', '4.2.5'
 
 gem 'rails-api'
 
-gem 'active_model_serializers', github: 'tjschuck/active_model_serializers', branch: 'respect_caching_config'
 
 
 gem 'spring', :group => :development
@@ -29,3 +28,5 @@ gem 'sqlite3'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
+gem 'active_model_serializers'
