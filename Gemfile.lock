@@ -145,6 +145,7 @@ DEPENDENCIES
   pry-rails
   rails (= 4.2.5)
   rails-api
+  redis (~> 3.2)
   redis-rails
   spring
   sqlite3

@@ -28,6 +28,8 @@ gem 'sqlite3'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+
+gem 'redis', '~>3.2'
 gem 'redis-rails'
 gem 'active_model_serializers', '~> 0.10.0.rc3'
 
@@ -35,3 +37,4 @@ gem 'pry'
 gem 'pry-rails'
 gem 'pry-doc'
 gem 'pry-nav'
+
